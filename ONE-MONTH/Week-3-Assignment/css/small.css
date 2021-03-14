@@ -1,0 +1,11 @@
+body{
+    background:blue;
+}
+.container{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+aside{
+    text-align: center;
+}
